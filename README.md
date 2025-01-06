@@ -18,5 +18,5 @@ House price prediction in the USA.
 Employee management system using Python.
 🤝 Let's Connect
 📧 Email: abdelwahabamr769@gmail.com
-🌐 LinkedIn: Abdelwahab Amr
-💻 GitHub: Your GitHub Profile
+🌐 LinkedIn: https://www.linkedin.com/in/%D9%90%D9%90%D9%90abdelwahab-amr-a168892a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+

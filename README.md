@@ -1,6 +1,6 @@
 👋 Hi, I'm Abdelwahab Amr
 🎓 Software Engineer | AI and Data Science Enthusiast
-📍 El Mokttam in Monfia, Egypt
+📍 Mokattam, Cairo, Egypt
 
 🔍 About Me
 🌟 Passionate about Artificial Intelligence, Machine Learning, and Data Science.

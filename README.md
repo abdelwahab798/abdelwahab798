@@ -1,29 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdelwahab Amr
-=======================================================================================================================================
+<h1 align="center">Hi there 👋 I'm Abdelwahab Amr</h1>
 
-Data Scientist & Machine Learning Engineer | Turning Data into Intelligent Solutions
-------------------------------------------------------------------------------------
+<h3 align="center">AI/NLP Engineer & Data Scientist | Turning Data into Intelligent Solutions</h3>
 
-Hi, I'm Abdelwahab Amr, a Data Scientist and Machine Learning Engineer with solid hands-on experience in building end-to-end ML solutions. I specialize in data preprocessing, EDA, feature engineering, and developing predictive models that deliver real business impact.I’ve worked on projects in sales forecasting, healthcare analytics, movie rating prediction, and recommendation systems, focusing on clean pipelines, model optimization, and practical deployment using FastAPI and Streamlit. I enjoy transforming data into insights, improving model performance, and exploring advanced techniques in machine learning, time series, and MLOps.
-
-* 🌍  I'm based in Egypt
-* 🧠  I'm currently learning Deep Learning | Natural Language Processing (NLP) | MLOps
-* 👥  I'm looking to collaborate on Data Science & ML projects, AI solutions for business
-* 🖥️  See my portfolio at [MyPortfolio](http://abdelwahab-amr-5jc1eod.gamma.site/)
-* ✉️  You can contact me at [abdelwahabamr769@gmail.com](mailto:abdelwahabamr769@gmail.com)
-* 📄 Know about my experiences **[https://drive.google.com/file/d/1o0ukezAQUL_Z8VJJbw5q5u6pJrdU6kkv/view?usp=sharing](https://drive.google.com/file/d/1o0ukezAQUL_Z8VJJbw5q5u6pJrdU6kkv/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/abdelwahab798" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/%D9%90%D9%90%D9%90abdelwahab-amr-a168892a3/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abdelwahabamr769@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="http://abdelwahab-amr-5jc1eod.gamma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1o0ukezAQUL_Z8VJJbw5q5u6pJrdU6kkv/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mlflow" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="mlflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+## 👨‍💻 About Me
 
+I'm an **AI/NLP Engineer and Data Scientist** from Egypt 🇪🇬, currently a 4th-year Software Engineering student at Delta Technology University. I specialize in building end-to-end ML and NLP solutions — from data collection and feature engineering to model deployment and MLOps.
+
+- 🔭 Currently working on **fine-tuned NLP models** and **MLOps pipelines**
+- 🌱 Deepening expertise in **Deep Learning**, **NLP**, and **LLM fine-tuning**
+- 🤝 Open to collaborating on **AI/ML projects** and **intelligent business solutions**
+- 📍 Based in **Monufia, Egypt**
+- 📫 Reach me at **abdelwahabamr769@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **GitHub Issues Classifier** | Fine-tuned DistilBERT (4-class: Bug/Feature/Support/Spam) — F1: 0.807 | PyTorch · HuggingFace · FastAPI · Docker |
+| **Email Spam Classifier** | MLOps pipeline with DVC tracking — Accuracy: 97.7% | scikit-learn · spaCy · TF-IDF · DVCLive |
+| **Sales Forecasting** | XGBoost model — MAE: 7.19, R²: 0.9920 | XGBoost · FastAPI · MLflow |
+| **Hybrid Recommendation System** | TF-IDF + Nearest Neighbors — RMSE: 0.93 | scikit-learn · Streamlit |
+| **Diabetes Diagnosis System** | XGBoost classifier — Accuracy: 94% | XGBoost · Streamlit |
+| **Chest X-Ray Classifier** | Custom CNN with residual blocks (Normal vs. Pneumonia) | PyTorch · OpenCV |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML / DL / NLP**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+**MLOps & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+
+---
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelwahab798&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwahab798&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to AI/NLP Engineer roles & exciting ML collaborations 🚀</i>
+</p>

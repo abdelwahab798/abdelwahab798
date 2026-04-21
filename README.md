@@ -26,7 +26,7 @@ I'm an **AI/NLP Engineer and Data Scientist** from Egypt 🇪🇬, currently a 4
 - 🔭 Currently working on **fine-tuned NLP models** and **MLOps pipelines**
 - 🌱 Deepening expertise in **Deep Learning**, **NLP**, and **LLM fine-tuning**
 - 🤝 Open to collaborating on **AI/ML projects** and **intelligent business solutions**
-- 📍 Based in **Monufia, Egypt**
+- 📍 Based in **Cairo, Egypt**
 - 📫 Reach me at **abdelwahabamr769@gmail.com**
 
 ---

@@ -8,8 +8,8 @@
   <a href="mailto:abdelwahabamr769@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+   <a href="https://drive.google.com/file/d/102bvQQWqft2vhHYblWYM8BlBDYmqfZie/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
@@ -17,10 +17,9 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year Software Engineering student at **Delta Technology University (DTU)**, Faculty of Information Technology
+- 🎓 Computer Science graduate (Jun 2026)
 - 🔭 Specialized in **pipeline automation, MLOps, NLP, and predictive modeling**
-- 🏥 Currently building **MediScan AI**, a multi-modal medical diagnostics platform, as my graduation project
-- 💼 Trained through the **Digital Egypt Pioneers Initiative** (IBM & AMIT) and as a **Machine Learning Intern at Genius Technology Center**
+- 💼 Trained through the **DE** (IBM & AMIT) and as a **Machine Learning Intern at GTC**
 - ⚙️ I care about taking models from `.ipynb` to real, deployed, monitored systems
 - 📫 Reach me at **abdelwahabamr769@gmail.com**
 
@@ -56,7 +55,7 @@ Full ML pipeline from ingestion to deployment for spam detection.
 - Containerized with **Docker**, deployed live on Hugging Face Spaces
 - **Result:** 97.7% accuracy, 98.46% AUC, 91.22% F1-score
 
-#### 😊 Pure Soft — Emotion Detection API
+#### 😊 [Pure_Soft](https://github.com/abdelwahab798/Pure_Soft-emotion-poject) — Emotion Detection API
 FastAPI service classifying text into 6 emotions (sadness, joy, love, anger, fear, surprise).
 - Fine-tuned **DistilBERT** on the `dair-ai/emotion` dataset
 - JWT-based auth (signup/login) with **bcrypt** password hashing

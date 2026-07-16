@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science graduate (Jun 2026)
 - 🔭 Specialized in **pipeline automation, MLOps, NLP, and predictive modeling**
-- 💼 Trained through the **DE** (IBM & AMIT) and as a **Machine Learning Intern at GTC**
+- 💼 Trained through the **DEPI** (IBM & AMIT) and as a **Machine Learning Intern at GTC**
 - ⚙️ I care about taking models from `.ipynb` to real, deployed, monitored systems
 - 📫 Reach me at **abdelwahabamr769@gmail.com**
 

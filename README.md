@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelwahab Amr</h1>
-<h3 align="center">AI Engineer & Data Scientist | Building production-ready ML systems, not just notebooks</h3>
+<h3 align="center">AI Engineer & Data Scientist | Building production-ready ML & MLOps systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelwahab-amr-a168892a3" target="_blank">
@@ -17,67 +17,58 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science graduate (Jun 2026)
-- 🔭 Specialized in **pipeline automation, MLOps, NLP, and predictive modeling**
-- 💼 Trained through the **DEPI** (IBM & AMIT) and as a **Machine Learning Intern at GTC**
-- ⚙️ I care about taking models from `.ipynb` to real, deployed, monitored systems
+- 🎓 Software Engineering Graduate 
+- 🔭 Specialized in **RAG Architectures, MLOps, NLP, and Predictive Modeling**
+- 💼 Hands-on experience as an **AI Engineer Intern** at **BBI Consultancy** and **PureSoft**, alongside foundational training through **DEPI** (IBM & AMIT) and **GTC**
+- ⚙️ Passionate about taking models from `.ipynb` to real, secure, deployed, and monitored production systems
 - 📫 Reach me at **abdelwahabamr769@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-#### 🩺 [MediScan AI](https://github.com/abdelwahab798) — Multi-Modal Medical Diagnostics Platform
-End-to-end medical AI platform unifying 6 diagnostic models, explainable AI, and a hallucination-resistant medical assistant.
-- **Backend:** FastAPI, JWT-secured multi-role (Doctor/Patient) architecture, SQLAlchemy + SQLite for longitudinal patient history
-- **AI Engine:** 4 computer vision models (Chest X-Ray, Brain Tumor, Brain Stroke, Diabetic Retinopathy) with **Grad-CAM** explainability, plus XGBoost models for Diabetes and CKD staging
-- **RAG Assistant:** Qdrant Cloud vector DB with 156K+ verified medical snippets, low-temperature prompting to eliminate hallucinations
-- **MLOps:** Human-in-the-loop correction pipeline to combat clinical data drift
-- **Highlights:** 99.7% recall on pneumonia detection, 98% AUC on brain tumor classification, 99% accuracy on CKD staging
+####  [Enterprise Procurement AI Assistant](https://github.com/abdelwahab798) — Role-Based RAG Assistant
+- **What it does:** Enterprise-grade RAG assistant utilizing Azure OpenAI and Azure AI Search for policy Q&A and request validation.
+- **Key Features:** Enforces Row-Level Security (RLS) for 100% role-isolated document lookup with zero cross-role data leakage. Achieved **94.5% retrieval accuracy** across 50+ evaluation scenarios.
+- **Tech Stack:** Azure OpenAI, Azure AI Search, Python, Streamlit.
 
-#### 🤖 [GitHub Issue Classifier](https://github.com/abdelwahab798) — End-to-End NLP MLOps Pipeline
-Automated pipeline classifying GitHub issues into Bug / Feature / Support / Spam.
-- Fine-tuned **DistilBERT** with a custom weighted trainer to handle class imbalance
-- Data scraped directly via the **GitHub API** (microsoft/vscode repo)
-- Deployed as a containerized **FastAPI + Docker** app on Hugging Face Spaces with live confidence scores
-- **Result:** 74% F1-score, 73.8% accuracy on real-world software engineering data
+####  [MediScan AI](https://github.com/abdelwahab798) — Multi-Modal Medical Diagnostics Platform
+- **What it does:** End-to-end medical AI platform unifying 6 diagnostic models, explainable AI, and a hallucination-resistant medical assistant.
+- **Backend & Architecture:** FastAPI, JWT-secured multi-role (Doctor/Patient) architecture, SQLAlchemy + SQLite for longitudinal patient history.
+- **AI Engine:** 4 computer vision models (MRI/CT/X-Ray) with **Grad-CAM** explainability, plus XGBoost models for Diabetes and CKD staging.
+- **RAG & MLOps:** Qdrant Cloud vector DB with verified medical snippets, low-temperature prompting, and a human-in-the-loop correction pipeline.
 
-#### 💬 [Personal RAG Chatbot](https://github.com/abdelwahab798/Personal-RAG-Chatbot) — Retrieval-Augmented Generation over Custom Knowledge
-Modular RAG system that builds a personal knowledge base from PDFs, TXT files, or scraped LinkedIn profiles.
-- **Hugging Face embeddings + FAISS** vector store with Create / Add / Load modes
-- **LangChain + OpenRouter** for context-aware generation
-- Fault-tolerant CLI with automatic fallbacks, structured logging, and robust exception handling
+####  [GitHub Issue Classifier](https://github.com/abdelwahab798) — End-to-End NLP MLOps Pipeline
+- **What it does:** Automated pipeline classifying GitHub issues (Bug / Feature / Support / Spam) using real-world data scraped from the Microsoft/VS Code repository via the GitHub API.
+- **ML & Deployment:** Fine-tuned **DistilBERT** with a custom weighted trainer to handle class imbalance (74% F1-score). Deployed as a containerized **FastAPI + Docker** app on Hugging Face Spaces.
 
-#### 📧 [Email Spam Classifier](https://github.com/abdelwahab798/ML-Pipeline-) — Production ML Pipeline
-Full ML pipeline from ingestion to deployment for spam detection.
-- **DVC + YAML** for pipeline orchestration, experiment tracking, and config management
-- TF-IDF + spaCy preprocessing feeding a Random Forest classifier
-- Containerized with **Docker**, deployed live on Hugging Face Spaces
-- **Result:** 97.7% accuracy, 98.46% AUC, 91.22% F1-score
+####  [Personal RAG Chatbot](https://github.com/abdelwahab798/Personal-RAG-Chatbot) — Retrieval-Augmented Generation over Custom Knowledge
+- **What it does:** Modular RAG system building a personal knowledge base from PDFs, TXT files, or scraped LinkedIn profiles.
+- **Tech Stack:** Hugging Face embeddings + FAISS vector store, LangChain + OpenRouter for context-aware generation, with a fault-tolerant CLI.
 
-#### 😊 [Pure_Soft](https://github.com/abdelwahab798/Pure_Soft-emotion-poject) — Emotion Detection API
-FastAPI service classifying text into 6 emotions (sadness, joy, love, anger, fear, surprise).
-- Fine-tuned **DistilBERT** on the `dair-ai/emotion` dataset
-- JWT-based auth (signup/login) with **bcrypt** password hashing
-- Per-user prediction history stored via **SQLAlchemy**
+####  [Email Spam Classification Pipeline](https://github.com/abdelwahab798/ML-Pipeline-) — Production ML Pipeline
+- **What it does:** Full ML pipeline from ingestion to deployment achieving 97% accuracy and 98% AUC.
+- **MLOps:** Built using Git, **DVC + YAML** for pipeline orchestration and experiment tracking, preprocessed with TF-IDF and spaCy, and containerized with **Docker** on Hugging Face Spaces.
+
+####  [PureSoft Emotion API](https://github.com/abdelwahab798/Pure_Soft-emotion-poject) — Emotion Detection API
+- **What it does:** FastAPI service classifying text into 6 emotions by fine-tuning **DistilBERT with LoRA** (93.2% accuracy, 3x faster training). Features JWT authentication (bcrypt) and prediction history logging with SQLAlchemy.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+**Programming & Databases:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
 
-**AI / ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+**AI, Machine Learning & GenAI:**
+- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![Azure OpenAI](https://img.shields.io/badge/-Azure_OpenAI-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Data:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-**MLOps / Deployment:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Databases:** ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+**Deployment, MLOps & Tools:**
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelwahab798&show_icons=true&theme=default" width="48%" />
@@ -86,11 +77,15 @@ FastAPI service classifying text into 6 emotions (sadness, joy, love, anger, fea
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 
-- Machine Learning Specialization — Coursera (Oct 2025)
-- Fine-tuning Language Models — Hugging Face (May 2026)
+- **NLP Engineering Certificate** — Neurova AI (Aug 2026)
+- **Dataiku Core Designer Certificate** — Dataiku (Aug 2026)
+- **Fine-tuning Language Models** — Hugging Face (May 2026)
+- **Machine Learning Specialization** — Coursera (Oct 2025)
+- **SQL Certificate** — DataCamp (Jan 2025)
+- **Mathematics Certificate** — 365 Data Science (Nov 2024)
 
 ---
 
-<p align="center"><i>Open to collaborations, internships, and interesting ML/MLOps problems. Let's connect!</i></p>
+<p align="center"><i>Open to collaborations, roles, and interesting ML/MLOps challenges. Let's connect!</i></p>

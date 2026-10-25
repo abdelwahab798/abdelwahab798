@@ -8,7 +8,7 @@
   <a href="mailto:abdelwahabamr769@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   <a href="https://drive.google.com/file/d/102bvQQWqft2vhHYblWYM8BlBDYmqfZie/view?usp=drive_link" target="_blank">
+   <a href="https://drive.google.com/file/d/1KwnyIBW6LagVEvqbnwMQDS_kPB2NhA0E/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
